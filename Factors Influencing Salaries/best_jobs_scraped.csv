@@ -1,0 +1,101 @@
+Title,Rank,Projected Jobs,Median Salary,Education Needed
+Information Security Analyst,1,47100,103590,Bachelor's
+Nurse Practitioner,2,114900,111680,Master's
+Physician Assistant,3,40100,115390,Master's
+Medical and Health Services Manager,4,139600,104280,Bachelor's
+Software Developer,5,409500,110140,Bachelor's
+Data Scientist,6,19800,98230,Bachelor's
+Financial Manager,7,118200,134180,Bachelor's
+Statistician,8,14900,92270,Master's
+Lawyer,9,71500,126930,Doctorate
+Speech-Language Pathologist,10,45400,80480,Master's
+Physician,11,18700,208000,Doctorate
+Registered Nurse,12,276800,75330,Bachelor's
+IT Manager,13,52700,151150,Bachelor's
+Market Research Analyst,14,163600,65810,Bachelor's
+Operations Research Analyst,15,25600,86200,Bachelor's
+Respiratory Therapist,16,31100,62810,Associate's
+Management Analyst,17,124400,87660,Bachelor's
+Oral and Maxillofacial Surgeon,18,400,208000,Doctorate
+Nurse Anesthetist,19,5600,183580,Master's
+Actuary,20,6800,111030,Bachelor's
+Logistician,21,56400,76270,Bachelor's
+Diagnostic Medical Sonographer,22,14400,75920,Associate's
+Veterinarian,23,14500,99250,Doctorate
+Marketing Manager,24,29400,142170,Bachelor's
+Patrol Officer,25,48600,65540,High School
+Business Operations Manager,26,226300,103650,Bachelor's
+Computer Systems Analyst,27,42800,93730,Bachelor's
+Physical Therapist,28,49100,91010,Doctorate
+Construction Manager,29,51400,97180,Bachelor's
+Occupational Therapy Assistant,30,15600,62940,Associate's
+Occupational Therapist,31,23000,86280,Master's
+Web Developer,32,25500,77200,Bachelor's
+Fashion Designer,32,100,75810,Bachelor's
+Substance Abuse and Behavioral Disorder Counselor,34,75100,47660,Bachelor's
+Public Relations Specialist,35,31200,62810,Bachelor's
+Pediatrician,36,-500,177130,Doctorate
+Optometrist,37,3900,118050,Doctorate
+Database Administrator,38,13200,98860,Bachelor's
+Epidemiologist/Medical Scientist,39,2300,74560,Master's
+Home Health Aide,40,1129900,27080,High School
+Personal Care Aide,40,1129900,27080,High School
+Accountant,42,96000,73560,Bachelor's
+Civil Engineer,43,25300,88570,Bachelor's
+Anesthesiologist,44,-200,208000,Doctorate
+Obstetrician and Gynecologist,44,-400,208000,Doctorate
+High School Teacher,46,78200,62870,Bachelor's
+Dentist,47,9800,158940,Doctorate
+Computer Network Architect,48,9000,116780,Bachelor's
+Licensed Practical and Licensed Vocational Nurse,49,63800,48820,Postsecondary non-degree
+Wind Turbine Technician,50,4700,56230,Postsecondary non-degree
+Psychiatrist,51,3500,208000,Doctorate
+Computer Systems Administrator,52,18800,84810,Bachelor's
+Sales Manager,53,27900,132290,Bachelor's
+Recreation and Fitness Worker,54,179500,31250,Not required
+Orthodontist,55,500,208000,Doctorate
+Orthotist and Prosthetist,56,1900,70190,Master's
+Social and Community Service Manager,57,26400,69600,Bachelor's
+Massage Therapist,58,46500,43620,Postsecondary non-degree
+Mechanical Engineer,59,20900,90160,Bachelor's
+Clinical Laboratory Technician,60,36500,54180,Bachelor's
+Psychologist,61,1100,105780,Master's
+Landscaper and Groundskeeper,62,85000,31730,Not required
+Physical Therapist Assistant,63,33200,59770,Associate's
+Medical Assistant,64,132600,35850,Postsecondary non-degree
+Petroleum Engineer,65,2200,137330,Bachelor's
+Financial Analyst,66,31300,83660,Bachelor's
+Industrial Psychologist,67,100,96270,Master's
+Computer Support Specialist,68,58000,52690,"Some college, no degree"
+Insurance Sales Agent,69,35500,52180,High School
+School Psychologist,70,12300,79820,Doctorate
+Genetic Counselor,71,600,85700,Master's
+Chiropractor,72,5600,70720,Doctorate
+Pharmacist,73,-7000,128710,Doctorate
+Electrician,74,66100,56900,High School
+Dietitian and Nutritionist,75,7800,63090,Bachelor's
+Actor,76,16700,43760,"Some college, no degree"
+Security Guard,77,154200,31050,High School
+Pilot,78,14700,130440,Bachelor's
+Audiologist,79,2100,81030,Doctorate
+Restaurant Cook,80,563500,28800,Not required
+Solar Photovoltaic Installer,81,6100,46470,High School
+Radiation Therapist,82,1600,86850,Associate's
+Delivery Truck Driver,83,101100,37050,High School
+Paralegal,84,41400,52920,Associate's
+Firefighter,85,26900,52500,Postsecondary non-degree
+Credit Counselor,86,3000,46170,Bachelor's
+School Counselor,87,37000,58120,Master's
+Loan Officer,88,4300,63960,Bachelor's
+Political Scientist,89,600,125350,Master's
+Bartender,90,159900,24960,Not required
+Dental Hygienist,91,23100,77090,Associate's
+HR Specialist,92,35500,62700,Bachelor's
+Ophthalmic Medical Technician,93,8700,37940,Postsecondary non-degree
+Mental Health Counselor,94,18500,48720,Master's
+Elementary School Teacher,95,101700,60940,Bachelor's
+MRI Technologist,96,3400,74690,Associate's
+Medical Secretary,97,64900,37350,High School
+Taxi Driver,98,180600,32320,Not required
+Community Health Worker,99,13500,42000,High School
+Nurse Midwife,100,800,111130,Master's
