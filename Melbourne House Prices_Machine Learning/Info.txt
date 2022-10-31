@@ -1,0 +1,2 @@
+Your cousin has made millions of dollars speculating on real estate. He's offered to become business partners with you because of your interest in data science.
+He'll supply the money, and you'll supply models that predict how much various houses are worth.
